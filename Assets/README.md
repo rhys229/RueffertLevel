@@ -1,0 +1,2 @@
+﻿## Design Goals
+The included level for this game is mostly exploring to find the various objectives and the platforming is not very difficult. I wanted to create a level with more platforming difficulty. I also wanted the player to have to take a few "leaps of faith", where they can barely see the platform they're jumping to. I didn't have time to do multiple zones like I would have liked, but my level should be at least mildly challenging. Or at least, it was for me
